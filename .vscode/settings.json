@@ -1,0 +1,26 @@
+{
+    "chat.customizations.structuredPreview.enabled": true,
+    "chat.exitAfterDelegation": true,
+    "chat.agent.sandbox.enabled": "on",
+    "editor.occurrencesHighlightDelay": 1234,
+    "chat.tools.compressOutput.enabled": true,
+    "chat.mcp.gallery.enabled": true,
+    "chat.hookFilesLocations": {
+        "http://.cashelldenetriaharrisapps.": true
+    },
+    "search.searchView.keywordSuggestions": true,
+    "search.searchView.semanticSearchBehavior": "auto",
+    "terminal.integrated.localEchoEnabled": "on",
+    "terminal.integrated.localEchoExcludePrograms": [
+        "vim",
+        "vi",
+        "nano",
+        "tmux",
+        "http://.cashelldenetriaharrisapps."
+    ],
+    "terminal.integrated.localEchoLatencyThreshold": 3123,
+    "terminal.integrated.suggest.providers": {
+        "lsp": true
+    },
+    "github.copilot.chat.codesearch.enabled": true
+}
